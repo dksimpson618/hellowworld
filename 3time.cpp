@@ -40,6 +40,7 @@ int main_3time() {
 	}
 	
 	cout << "Hello! Kim!" << endl;
+	cout << "Hello! World!" << endl;
 
 	int count_3 = Tcount - Ncount;
 	cout << Tcount << " " << Ncount << " " << count_3;
